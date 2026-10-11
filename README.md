@@ -1,3 +1,7 @@
+> [!WARNING]
+> This project is deprecated and no longer maintained. It has been superseded by [Wokann's Offline Bank & Transporter Mod](https://github.com/Wokann/bank_and_mover_offline_patch), which covers everything this mod does and more.
+> Please download that instead!
+
 # Pokemon Transporter Offline Patch
 
 With 3ds servers going down and Pokemon Transporter/Bank being free to use, it's not entirely clear if there will always be a way to transfer Pokemon from past games using the official tools.
